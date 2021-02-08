@@ -18,3 +18,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     bsseq
+URL: https://github.com/SamBuckberry/fivemc
+BugReports: https://github.com/SamBuckberry/fivemc/issues
