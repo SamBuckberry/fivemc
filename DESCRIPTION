@@ -17,4 +17,17 @@ Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Imports: 
-    bsseq
+    assertthat,
+    magrittr,
+    bsseq,
+    stringr,
+    BiocParallel,
+    BSgenome.Hsapiens.UCSC.hg19,
+    usethis,
+    rtracklayer,
+    GenomicRanges,
+    limma
+URL: https://github.com/SamBuckberry/fivemc
+BugReports: https://github.com/SamBuckberry/fivemc/issues
+Depends: 
+    R (>= 2.10)
