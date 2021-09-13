@@ -1,3 +1,9 @@
 ^fivemc\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^README\.Rmd$
+README.md
+README.Rmd
+setup.R
+^README_files/*
+^images/*
